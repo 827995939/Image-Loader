@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">image_loader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    
+    
+	<!-- Content descriptions -->
+	<string name="descr_image">Image</string>
+	<string name="ac_name_image_pager">啦啦啦</string>
+
+</resources>
